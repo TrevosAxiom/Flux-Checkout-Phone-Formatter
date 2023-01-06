@@ -8,7 +8,7 @@ Requires at least: 5.6
 Tested up to: 6.1.1
 Requires PHP: 7.0
 Stable tag: stable
-License: GPLv2
+License: GPL2.0
 
 Formats the Flux Checkout plugin phone number
 
